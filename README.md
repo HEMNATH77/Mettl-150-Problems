@@ -1,2 +1,2 @@
 # Mettl-150-Problems
-Covers coing problems Screenshot done on Mettl
+Covers coding problems Screenshot done on Mettl
